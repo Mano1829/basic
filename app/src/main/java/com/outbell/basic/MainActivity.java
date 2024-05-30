@@ -5,8 +5,6 @@ import android.os.Bundle;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.outbell.basic.utils.Console;
-import com.outbell.basic.utils.ResUtils;
 
 public class MainActivity extends AppCompatActivity  {
 

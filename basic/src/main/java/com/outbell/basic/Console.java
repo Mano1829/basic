@@ -1,4 +1,4 @@
-package com.outbell.basic.utils;
+package com.outbell.basic;
 
 import android.util.Log;
 
