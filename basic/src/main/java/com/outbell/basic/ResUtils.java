@@ -17,4 +17,5 @@ public class ResUtils {
         return context.getResources().getColor(colorResID);
     }
 
+
 }
